@@ -1,0 +1,35 @@
+name;price;type;efficiency;wattage;modular
+Silverstone SST-TX300;74.98;TFX;bronze;300;FALSE
+be quiet! SFX Power 3 300;84.59;SFX;bronze;300;FALSE
+Silverstone TX300;82.6;TFX;bronze;300;FALSE
+be quiet! TFX Power 3 300;97.79;TFX;gold;300;FALSE
+SeaSonic SS-300ES Bronze;104.44;ATX;bronze;300;FALSE
+Corsair CX400;249;ATX;plus;400;FALSE
+SHARKOON SilentStorm;89.29;SFX;bronze;450;FALSE
+be quiet! System Power 9 500 CM;126.42;ATX;bronze;500;Semi
+Silverstone SFX;110.88;SFX;gold;500;Full
+Silverstone SX500-G;101.99;SFX;gold;500;Full
+SeaSonic Prime Fanless PX-500;238.89;ATX;platinum;500;Full
+Corsair VS500;199.93;ATX;plus;500;FALSE
+FSP Group FSP500-50FSPT;198.99;Flex ATX;platinum;500;FALSE
+Athena Power AP-MFATX50P8;169.99;Flex ATX;silver;500;FALSE
+Antec Earthwatts;124.98;ATX;bronze;500;FALSE
+be quiet! System Power 10;136.99;ATX;bronze;550;FALSE
+Silverstone Essential;59.99;ATX;bronze;550;FALSE
+be quiet! Pure Power 11 FM 550;78.59;ATX;gold;550;Full
+Silverstone Essential;78.98;ATX;gold;550;FALSE
+be quiet! Dark Power Pro 11;89.9;ATX;platinum;550;Semi
+be quiet! SFX L Power;128.58;SFX;gold;600;Full
+EVGA 600 BQ;134.99;ATX;bronze;600;Semi
+Antec NeoECO Gold ZEN;134.16;ATX;gold;600;FALSE
+Corsair RM650x (2021);182.99;ATX;gold;650;Full
+MSI MAG A650GL;96.99;ATX;gold;650;Full
+Phanteks Revolt SFX;107.98;SFX;gold;650;Full
+ADATA XPG CORE Reactor 650;119.99;ATX;gold;650;Full
+Corsair RM650x (2018);198.96;ATX;gold;650;Full
+Thermaltake Smart BX1 650;64.98;ATX;bronze;650;FALSE
+EVGA SuperNOVA 650 G5;109.99;ATX;gold;650;Full
+Azza ARGB;64.98;ATX;bronze;650;FALSE
+SHARKOON SilentStorm Cool Zero 650;141.19;ATX;gold;650;Full
+Corsair HX650;316.95;ATX;gold;650;Semi
+be quiet! System Power 9 700 CM;152.2;ATX;bronze;700;Semi
